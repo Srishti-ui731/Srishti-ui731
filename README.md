@@ -20,8 +20,6 @@ I'm a first-year BTech CSE (AIML) student at GLA University, passionate about AI
 - LinkedIn: [Srishti Upadhyay](https://linkedin.com/in/srishti-upadhyay-348206382)
 - Email: [srishtiupadhyay797@gmail.com]
 
-## 📊 GitHub Stats
-![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srishti-ui731&show_icons=true&theme=radical)
 
 <!--
 **Srishti-ui731/Srishti-ui731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
