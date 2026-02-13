@@ -18,7 +18,7 @@ I'm a first-year BTech CSE (AIML) student at GLA University, passionate about AI
 
 ## 📫 Connect with Me
 - LinkedIn: [Srishti Upadhyay](https://linkedin.com/in/srishti-upadhyay-348206382)
-- Email: [your-email]
+- Email: [srishtiupadhyay797@gmail.com]
 
 ## 📊 GitHub Stats
 ![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srishti-ui731&show_icons=true&theme=radical)
